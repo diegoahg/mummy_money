@@ -1,0 +1,5 @@
+__pycache__/
+backend/venv
+inversors.json
+members.json
+metrics.json
